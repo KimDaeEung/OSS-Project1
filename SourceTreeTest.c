@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main()
 {
-  printf("hihi");
+  printf("hihi\n");
+  printf("Second sourceCode \n");
   return 0;
-  
+
 }
